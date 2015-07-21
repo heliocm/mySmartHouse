@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mySmartHouse</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="selectRoom">
+        <item>Selecione o cômodo</item>
+        <item>Sala</item>
+        <item>Cozinha</item>
+        <item>Corredor</item>
+        <item>Banheiro</item>
+        <item>Escritório</item>
+        <item>Suíte</item>
+        <item>Quarto</item>
+    </string-array>
+
+</resources>
